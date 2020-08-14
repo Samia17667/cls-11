@@ -1,0 +1,339 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #003334;
+}
+
+.content1 {
+    width: 100%;
+
+    padding-left: 30px;
+    padding-top: 25px;
+
+}
+
+.content1 .one h3 {
+    color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #1A7FC5;
+    float: left;
+    font-size: 30px;
+    font-style: italic;
+    box-shadow: 10px 10px 5px black;
+}
+
+.content1 .html p {
+
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    text-shadow: 10px 10px 5px black;
+}
+
+.content2 {
+    width: 100%;
+
+    padding-left: 30px;
+    padding-top: 25px;
+}
+
+.content2 .two h3 {
+    color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #06D288;
+    margin-top: 20px;
+    font-size: 30px;
+    font-style: italic;
+    box-shadow: 10px 10px 5px black;
+    float: left;
+    clear: both;
+}
+
+.content2 .website p {
+
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    margin-top: 20px;
+    text-shadow: 10px 10px 5px black;
+}
+
+.content3 {}
+
+.content3 .three h3 {
+    color: white;
+    height: 35px;
+    width: 40px;
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-top: 10px;
+    float: left;
+    clear: both;
+    background-color: #1A7FC5;
+    box-shadow: 10px 10px 5px black;
+}
+
+.content3 .article p {
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    margin-top: 10px;
+    text-shadow: 10px 10px 5px black;
+}
+
+.content4 .four h3 {
+    color: white;
+    height: 35px;
+    width: 40px;
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-top: 15px;
+    float: left;
+    clear: both;
+    background-color: #06D288;
+    box-shadow: 10px 10px 5px black;
+}
+.content4 .News p {
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    margin-top: 15px;
+    text-shadow: 10px 10px 5px black;
+}
+.content5 .five h3 {
+    color: white;
+    height: 35px;
+    width: 40px;
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-top: 15px;
+    float: left;
+    clear: both;
+    background-color: #6D308F;
+    box-shadow: 10px 10px 5px black;
+}
+.content5 .picture p {
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    margin-top: 15px;
+    text-shadow: 10px 10px 5px black;
+}
+
+
+.content6 .six h3 {
+    color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #6D308F;
+    margin-top: 20px;
+    font-size: 30px;
+    font-style: italic;
+    box-shadow: 10px 10px 5px black;
+    float: left;
+    clear: both;
+    margin-left: 30px;
+}
+
+.content6 .profit p {
+
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    margin-top: 25px;
+    text-shadow: 10px 10px 5px black;
+}
+.content7 .seven h3 {
+    color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #06D288;
+    margin-top: 20px;
+    font-size: 30px;
+    font-style: italic;
+    box-shadow: 10px 10px 5px black;
+    float: left;
+    clear: both;
+    margin-left: 30px;
+}
+
+.content7 .website p {
+
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    margin-top: 20px;
+    text-shadow: 10px 10px 5px black;
+}
+.content8 .eight h3 {
+    color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #6D308F;
+    margin-top: 20px;
+    font-size: 30px;
+    font-style: italic;
+    box-shadow: 10px 10px 5px black;
+    float: left;
+    clear: both;
+    margin-left: 30px;
+}
+
+.content8 .profit p {
+
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    margin-top: 25px;
+    text-shadow: 10px 10px 5px black;
+}
+.content9 .nine h3 {
+    color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #1A7FC5;
+    margin-top: 20px;
+    font-size: 30px;
+    font-style: italic;
+    box-shadow: 10px 10px 5px black;
+    float: left;
+    clear: both;
+    margin-left: 30px;
+}
+
+.content9 .html p {
+
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    margin-top: 20px;
+    text-shadow: 10px 10px 5px black;
+}
+
+.content10 .ten h3 {
+    color: white;
+    height: 35px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-top: 10px;
+    float: left;
+    clear: both;
+    background-color: #1A7FC5;
+    box-shadow: 10px 10px 5px black;
+}
+
+.content10 .article p {
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    margin-top: 10px;
+    text-shadow: 10px 10px 5px black;
+}
+.content11 .eleven h3 {
+    color: white;
+    height: 35px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-top: 10px;
+    float: left;
+    clear: both;
+    background-color: #06D288;
+    box-shadow: 10px 10px 5px black;
+}
+
+.content11 .News p {
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    margin-top: 10px;
+    text-shadow: 10px 10px 5px black;
+}
+.content12 .twelve h3 {
+    color: white;
+    height: 35px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-top: 15px;
+    float: left;
+    clear: both;
+    background-color: #6D308F;
+    box-shadow: 10px 10px 5px black;
+}
+.content12 .picture p {
+    font-size: 25px;
+    padding-top: 5px;
+    font-style: italic;
+    color: white;
+    padding-left: 25px;
+    float: left;
+    margin-top: 15px;
+    text-shadow: 10px 10px 5px black;
+}
